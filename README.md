@@ -12,3 +12,5 @@ Deliverables include clear documentation and a demo showcasing how the multi-clo
 
 "OUTPUT"
 
+[INTERNSHIP TASK-3.docx](https://github.com/user-attachments/files/24314801/INTERNSHIP.TASK-3.docx)
+
